@@ -1,0 +1,6 @@
+.stack-work
+dist
+*.o
+*.p_o
+*.hi
+*.p_hi
